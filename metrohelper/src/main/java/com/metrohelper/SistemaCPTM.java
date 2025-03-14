@@ -27,13 +27,13 @@ public class SistemaCPTM {
                     Caminho.consultarCaminho();  // Chama o método na classe Caminho
                     break;
                 case "2":
-                    Lotacao.duvidaLotacao();
+                    Lotacao.duvidaLotacao();  // Chama o método na classe Lotacao
                     break;
                 case "3":
-                    DuvidasFrequentes.duvidasFrequentes();
+                    DuvidasFrequentes.duvidasFrequentes();  // Chama o método na classe DuvidasFrequentes
                     break;
                 case "4":
-                    encerrar();
+                    encerrar();  // Chama o método para encerrar o programa
                     break;
             }
         }
@@ -44,5 +44,6 @@ public class SistemaCPTM {
         System.exit(0);
     }
 }
+
 
 

@@ -38,6 +38,6 @@ public class DuvidasFrequentes {
             }
         }
 
-        SistemaCPTM.pergunta();
+        
     }
 }

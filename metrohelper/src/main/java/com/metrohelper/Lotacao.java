@@ -29,7 +29,7 @@ public class Lotacao {
         System.out.println("Vagão 8 = " + vag8 + "%");
         System.out.println("\nA chegada do próximo trem está prevista para " + tempoChegadaMin + " minutos e " + tempoChegadaSeg + " segundos");
 
-        SistemaCPTM.pergunta();
+        
     }
 }
 
